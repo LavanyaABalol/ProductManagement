@@ -1,0 +1,17 @@
+C:\Work\POC\ProductManagement\ProductManagementRepo\bin\Debug\net6.0\ProductManagementRepo.deps.json
+C:\Work\POC\ProductManagement\ProductManagementRepo\bin\Debug\net6.0\ProductManagementRepo.dll
+C:\Work\POC\ProductManagement\ProductManagementRepo\bin\Debug\net6.0\ProductManagementRepo.pdb
+C:\Work\POC\ProductManagement\ProductManagementRepo\bin\Debug\net6.0\ProductManagementDBContext.dll
+C:\Work\POC\ProductManagement\ProductManagementRepo\bin\Debug\net6.0\ProductManagementModel.dll
+C:\Work\POC\ProductManagement\ProductManagementRepo\bin\Debug\net6.0\ProductManagementDBContext.pdb
+C:\Work\POC\ProductManagement\ProductManagementRepo\bin\Debug\net6.0\ProductManagementModel.pdb
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ProductManagementRepo.csproj.AssemblyReference.cache
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ProductManagementRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ProductManagementRepo.AssemblyInfoInputs.cache
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ProductManagementRepo.AssemblyInfo.cs
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ProductManagementRepo.csproj.CoreCompileInputs.cache
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ProductManagementRepo.csproj.CopyComplete
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ProductManagementRepo.dll
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\refint\ProductManagementRepo.dll
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ProductManagementRepo.pdb
+C:\Work\POC\ProductManagement\ProductManagementRepo\obj\Debug\net6.0\ref\ProductManagementRepo.dll

@@ -1,0 +1,15 @@
+C:\Work\POC\DemoRun\DemoRun\bin\Debug\net6.0\DemoRun.exe
+C:\Work\POC\DemoRun\DemoRun\bin\Debug\net6.0\DemoRun.deps.json
+C:\Work\POC\DemoRun\DemoRun\bin\Debug\net6.0\DemoRun.runtimeconfig.json
+C:\Work\POC\DemoRun\DemoRun\bin\Debug\net6.0\DemoRun.dll
+C:\Work\POC\DemoRun\DemoRun\bin\Debug\net6.0\DemoRun.pdb
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\DemoRun.csproj.AssemblyReference.cache
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\DemoRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\DemoRun.AssemblyInfoInputs.cache
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\DemoRun.AssemblyInfo.cs
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\DemoRun.csproj.CoreCompileInputs.cache
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\DemoRun.dll
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\refint\DemoRun.dll
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\DemoRun.pdb
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\DemoRun.genruntimeconfig.cache
+C:\Work\POC\DemoRun\DemoRun\obj\Debug\net6.0\ref\DemoRun.dll

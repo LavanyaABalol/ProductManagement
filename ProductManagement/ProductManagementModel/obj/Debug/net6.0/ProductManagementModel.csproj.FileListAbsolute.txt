@@ -1,0 +1,14 @@
+C:\Work\POC\ProductManagement\ProductManagementModel\bin\Debug\net6.0\ProductManagementModel.deps.json
+C:\Work\POC\ProductManagement\ProductManagementModel\bin\Debug\net6.0\ProductManagementModel.dll
+C:\Work\POC\ProductManagement\ProductManagementModel\bin\Debug\net6.0\ProductManagementModel.pdb
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ProductManagementModel.csproj.AssemblyReference.cache
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ProductManagementModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ProductManagementModel.AssemblyInfoInputs.cache
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ProductManagementModel.AssemblyInfo.cs
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ProductManagementModel.csproj.CoreCompileInputs.cache
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ProductManagementModel.dll
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\refint\ProductManagementModel.dll
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ProductManagementModel.pdb
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ref\ProductManagementModel.dll
+C:\Work\POC\ProductManagement\ProductManagementModel\bin\Debug\net6.0\ProductManagementModel.runtimeconfig.json
+C:\Work\POC\ProductManagement\ProductManagementModel\obj\Debug\net6.0\ProductManagementModel.genruntimeconfig.cache
